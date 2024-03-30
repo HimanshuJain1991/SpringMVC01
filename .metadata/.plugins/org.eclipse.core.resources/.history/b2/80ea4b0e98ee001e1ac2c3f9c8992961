@@ -1,0 +1,13 @@
+package com.rays.dto;
+
+import java.util.Date;
+
+public class UserDTO {
+protected Long id=null;
+private String firstName = null;
+private String lastName = null;
+private String login = null;
+private String password = null;
+private Date dob;
+private String address = null;
+}
