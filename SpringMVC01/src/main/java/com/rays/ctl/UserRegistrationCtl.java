@@ -13,7 +13,7 @@ import com.rays.service.UserServiceImpl;
 import com.rays.util.DataUtility;
 
 @Controller
-@RequestMapping(value="Register")
+@RequestMapping(value = "Register")
 public class UserRegistrationCtl {
 
 	@Autowired
